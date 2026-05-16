@@ -1,6 +1,6 @@
 node_modules/
 .env
-outputs/
+# outputs/
 .tmp_uploads/
 *.log
 .DS_Store
