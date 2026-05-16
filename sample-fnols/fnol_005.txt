@@ -1,0 +1,42 @@
+FIRST NOTICE OF LOSS (FNOL)
+===============================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2023-44210
+Policyholder Name: TechSolutions Pvt. Ltd.
+Policy Effective Date: 01-Apr-2023
+Policy Expiry Date: 31-Mar-2026
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 05-May-2025
+Time of Incident: 03:20 AM
+Location: Plot No. 14, KIADB Industrial Area, Electronic City Phase 2, Bengaluru - 560100
+Description: A fire broke out in the server room of the insured company's office premises during early morning hours. The fire is believed to have originated from a short circuit in the UPS room. The Bengaluru Fire Department responded within 15 minutes and brought the blaze under control by 04:45 AM. The server room, adjacent storage area, and office equipment on the ground floor were severely damaged. No casualties reported. All employees were evacuated safely. CCTV footage is available. A detailed forensic assessment is underway.
+
+INVOLVED PARTIES
+----------------
+Claimant: TechSolutions Pvt. Ltd. (Represented by: Arjun Krishnamurthy, CFO)
+Phone: +91-8023456789
+Email: claims@techsolutions.in
+Third Parties: None
+Emergency Contact: Deepak Rao (CEO) - +91-9900123456
+
+ASSET DETAILS
+-------------
+Asset Type: Commercial Property & Equipment
+Asset ID: Property ID - EC-BLR-2023-0014 | Equipment List Attached
+Estimated Damage: INR 48,00,000 (Preliminary estimate; final subject to surveyor report)
+
+CLAIM DETAILS
+-------------
+Claim Type: Commercial Property Damage (Fire)
+Attachments: Yes (FIR copy, Fire Department report, CCTV footage, Equipment inventory list, Repair quotes from 2 vendors, Forensic team appointment letter)
+Initial Estimate: INR 48,00,000
+
+DECLARATION
+-----------
+I hereby declare that all information provided is true to the best of my knowledge and belief.
+Authorized Signatory: Arjun Krishnamurthy (CFO, TechSolutions Pvt. Ltd.)
+Date: 07-May-2025

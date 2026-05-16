@@ -1,0 +1,44 @@
+FIRST NOTICE OF LOSS (FNOL)
+===============================
+
+POLICY INFORMATION
+------------------
+Policy Number: POL-2024-78432
+Policyholder Name: Rajesh Kumar Sharma
+Policy Effective Date: 01-Jan-2024
+Policy Expiry Date: 31-Dec-2024
+
+INCIDENT INFORMATION
+--------------------
+Date of Incident: 14-May-2025
+Time of Incident: 10:35 AM
+Location: MG Road, Bengaluru, Karnataka - 560001
+Description: The insured vehicle was rear-ended by another vehicle at a traffic signal. The impact caused damage to the rear bumper and tailgate. No injuries reported. Police report filed at MG Road Police Station (FIR No. BLR-2025-4821).
+
+INVOLVED PARTIES
+----------------
+Claimant: Rajesh Kumar Sharma
+Phone: +91-9845012345
+Email: rajesh.sharma@email.com
+Third Party Driver: Anil Mehta
+Third Party Vehicle: KA-03-MF-7890
+Third Party Insurance: New India Assurance, Policy No. NIA-56789
+
+ASSET DETAILS
+-------------
+Asset Type: Private Motor Vehicle
+Asset ID / Registration: KA-01-HH-4532
+Make & Model: Maruti Suzuki Swift Dzire (2022)
+Estimated Damage: INR 18,500
+
+CLAIM DETAILS
+-------------
+Claim Type: Property Damage
+Attachments: Yes (Photos of damage, FIR copy, Repair estimate from Authorized Service Center)
+Initial Estimate: INR 18,500
+
+DECLARATION
+-----------
+I hereby declare that the information provided above is true and correct to the best of my knowledge.
+Signature: Rajesh Kumar Sharma
+Date: 15-May-2025
