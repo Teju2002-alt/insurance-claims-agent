@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "fnol_003.txt",
+    "processedAt": "2026-05-16T06:56:57.153Z"
+  },
+  "extractedFields": {
+    "policyNumber": "POL-2024-33120",
+    "policyholderName": "Vikram Nair",
+    "claimType": "Property Damage (Fire / Total Loss)",
+    "incidentDate": "01-Jun-2024",
+    "incidentTime": null,
+    "location": "Industrial Area, Peenya, Bengaluru, Karnataka - 560058",
+    "assetType": "Private Motor Vehicle",
+    "assetId": null,
+    "estimatedDamage": 0,
+    "description": "The claimant reports that his vehicle was completely destroyed in a fire while parked in the Peenya Industrial Area. The incident appears staged as the vehicle was reported stolen just 2 weeks prior and then mysteriously found at this location. Witnesses report inconsistent accounts of how the fire started. The fire department report notes the origin of the fire is suspicious and possibly linked to fraud. No FIR has been filed yet despite the incident occurring 2 days ago."
+  },
+  "missingFields": [
+    {
+      "field": "effectiveDateStart",
+      "label": "Policy Effective Date",
+      "section": "Policy Information"
+    },
+    {
+      "field": "incidentTime",
+      "label": "Incident Time",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentLocation",
+      "label": "Incident Location",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentDescription",
+      "label": "Incident Description",
+      "section": "Incident Information"
+    },
+    {
+      "field": "claimantName",
+      "label": "Claimant Name",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "claimantPhone",
+      "label": "Claimant Phone",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "assetId",
+      "label": "Asset ID",
+      "section": "Asset Details"
+    },
+    {
+      "field": "attachments",
+      "label": "Attachments",
+      "section": "Claim Details"
+    },
+    {
+      "field": "initialEstimate",
+      "label": "Initial Estimate",
+      "section": "Claim Details"
+    }
+  ],
+  "inconsistencies": [],
+  "fraudFlags": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "9 mandatory field(s) are missing from this FNOL submission: [Policy Effective Date (Policy Information), Incident Time (Incident Information), Incident Location (Incident Information), Incident Description (Incident Information), Claimant Name (Involved Parties), Claimant Phone (Involved Parties), Asset ID (Asset Details), Attachments (Claim Details), Initial Estimate (Claim Details)]. The claim cannot be auto-processed until all required information is provided.",
+  "rulesFired": [
+    "MISSING_MANDATORY_FIELDS"
+  ]
+}

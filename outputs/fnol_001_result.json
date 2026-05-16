@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "fnol_001.txt",
+    "processedAt": "2026-05-16T06:56:57.144Z"
+  },
+  "extractedFields": {
+    "policyNumber": "POL-2024-78432",
+    "policyholderName": "Rajesh Kumar Sharma",
+    "claimType": "Property Damage",
+    "incidentDate": "01-Jan-2024",
+    "incidentTime": null,
+    "location": "MG Road, Bengaluru, Karnataka - 560001",
+    "assetType": "Private Motor Vehicle",
+    "assetId": null,
+    "estimatedDamage": 0,
+    "description": "The insured vehicle was rear-ended by another vehicle at a traffic signal. The impact caused damage to the rear bumper and tailgate. No injuries reported. Police report filed at MG Road Police Station (FIR No. BLR-2025-4821)."
+  },
+  "missingFields": [
+    {
+      "field": "effectiveDateStart",
+      "label": "Policy Effective Date",
+      "section": "Policy Information"
+    },
+    {
+      "field": "incidentTime",
+      "label": "Incident Time",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentLocation",
+      "label": "Incident Location",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentDescription",
+      "label": "Incident Description",
+      "section": "Incident Information"
+    },
+    {
+      "field": "claimantName",
+      "label": "Claimant Name",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "claimantPhone",
+      "label": "Claimant Phone",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "assetId",
+      "label": "Asset ID",
+      "section": "Asset Details"
+    },
+    {
+      "field": "attachments",
+      "label": "Attachments",
+      "section": "Claim Details"
+    },
+    {
+      "field": "initialEstimate",
+      "label": "Initial Estimate",
+      "section": "Claim Details"
+    }
+  ],
+  "inconsistencies": [],
+  "fraudFlags": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "9 mandatory field(s) are missing from this FNOL submission: [Policy Effective Date (Policy Information), Incident Time (Incident Information), Incident Location (Incident Information), Incident Description (Incident Information), Claimant Name (Involved Parties), Claimant Phone (Involved Parties), Asset ID (Asset Details), Attachments (Claim Details), Initial Estimate (Claim Details)]. The claim cannot be auto-processed until all required information is provided.",
+  "rulesFired": [
+    "MISSING_MANDATORY_FIELDS"
+  ]
+}

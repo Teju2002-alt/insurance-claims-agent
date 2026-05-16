@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "filename": "fnol_002.txt",
+    "processedAt": "2026-05-16T06:56:57.149Z"
+  },
+  "extractedFields": {
+    "policyNumber": "POL-2024-55891",
+    "policyholderName": "Meena Subramaniam",
+    "claimType": "Injury",
+    "incidentDate": "15-Mar-2024",
+    "incidentTime": null,
+    "location": "Outer Ring Road, Near Marathahalli Bridge, Bengaluru, Karnataka - 560037",
+    "assetType": "Private Motor Vehicle",
+    "assetId": null,
+    "estimatedDamage": 0,
+    "description": "The policyholder was involved in a head-on collision with a truck that crossed the median. The policyholder sustained multiple injuries including a fractured left arm and whiplash injury to the neck. She was immediately hospitalized at Manipal Hospital, Whitefield. The truck driver fled the scene. A bystander noted the vehicle number: KA-09-C-1122. Police FIR filed at Marathahalli Police Station (FIR No. BLR-2025-5501)."
+  },
+  "missingFields": [
+    {
+      "field": "effectiveDateStart",
+      "label": "Policy Effective Date",
+      "section": "Policy Information"
+    },
+    {
+      "field": "incidentTime",
+      "label": "Incident Time",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentLocation",
+      "label": "Incident Location",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentDescription",
+      "label": "Incident Description",
+      "section": "Incident Information"
+    },
+    {
+      "field": "claimantName",
+      "label": "Claimant Name",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "claimantPhone",
+      "label": "Claimant Phone",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "assetId",
+      "label": "Asset ID",
+      "section": "Asset Details"
+    },
+    {
+      "field": "attachments",
+      "label": "Attachments",
+      "section": "Claim Details"
+    },
+    {
+      "field": "initialEstimate",
+      "label": "Initial Estimate",
+      "section": "Claim Details"
+    }
+  ],
+  "inconsistencies": [],
+  "fraudFlags": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim type is identified as \"Injury\", which involves personal injury. Injury claims require specialist medical assessment, legal review, and rehabilitation coordination. Note: 9 missing field(s) detected — the specialist team will also need to collect these: [Policy Effective Date, Incident Time, Incident Location, Incident Description, Claimant Name, Claimant Phone, Asset ID, Attachments, Initial Estimate].",
+  "rulesFired": [
+    "CLAIM_TYPE_INJURY"
+  ]
+}

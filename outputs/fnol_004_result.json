@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "filename": "fnol_004.txt",
+    "processedAt": "2026-05-16T06:56:57.156Z"
+  },
+  "extractedFields": {
+    "policyNumber": "POL-2024-91047",
+    "policyholderName": "Ananya Patel",
+    "claimType": "Property Damage (Natural Disaster / Flood)",
+    "incidentDate": "[NOT PROVIDED]",
+    "incidentTime": null,
+    "location": "Whitefield, Bengaluru",
+    "assetType": "Residential Property",
+    "assetId": null,
+    "estimatedDamage": 0,
+    "description": "Water damage to property due to heavy rainfall and flooding. The ground floor of the residential property was submerged in approximately 2 feet of water causing damage to furniture, electronics, and flooring."
+  },
+  "missingFields": [
+    {
+      "field": "effectiveDateStart",
+      "label": "Policy Effective Date",
+      "section": "Policy Information"
+    },
+    {
+      "field": "incidentDate",
+      "label": "Incident Date",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentTime",
+      "label": "Incident Time",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentLocation",
+      "label": "Incident Location",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentDescription",
+      "label": "Incident Description",
+      "section": "Incident Information"
+    },
+    {
+      "field": "claimantName",
+      "label": "Claimant Name",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "claimantPhone",
+      "label": "Claimant Phone",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "assetId",
+      "label": "Asset ID",
+      "section": "Asset Details"
+    },
+    {
+      "field": "attachments",
+      "label": "Attachments",
+      "section": "Claim Details"
+    },
+    {
+      "field": "initialEstimate",
+      "label": "Initial Estimate",
+      "section": "Claim Details"
+    }
+  ],
+  "inconsistencies": [],
+  "fraudFlags": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "10 mandatory field(s) are missing from this FNOL submission: [Policy Effective Date (Policy Information), Incident Date (Incident Information), Incident Time (Incident Information), Incident Location (Incident Information), Incident Description (Incident Information), Claimant Name (Involved Parties), Claimant Phone (Involved Parties), Asset ID (Asset Details), Attachments (Claim Details), Initial Estimate (Claim Details)]. The claim cannot be auto-processed until all required information is provided.",
+  "rulesFired": [
+    "MISSING_MANDATORY_FIELDS"
+  ]
+}

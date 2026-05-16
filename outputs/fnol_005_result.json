@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "filename": "fnol_005.txt",
+    "processedAt": "2026-05-16T06:56:57.158Z"
+  },
+  "extractedFields": {
+    "policyNumber": "POL-2023-44210",
+    "policyholderName": "TechSolutions Pvt. Ltd.",
+    "claimType": "Commercial Property Damage (Fire)",
+    "incidentDate": "01-Apr-2023",
+    "incidentTime": null,
+    "location": "Plot No. 14, KIADB Industrial Area, Electronic City Phase 2, Bengaluru - 560100",
+    "assetType": "Commercial Property & Equipment",
+    "assetId": "Property ID - EC-BLR-2023-0014 | Equipment List Attached",
+    "estimatedDamage": 0,
+    "description": "A fire broke out in the server room of the insured company's office premises during early morning hours. The fire is believed to have originated from a short circuit in the UPS room. The Bengaluru Fire Department responded within 15 minutes and brought the blaze under control by 04:45 AM. The server room, adjacent storage area, and office equipment on the ground floor were severely damaged. No casualties reported. All employees were evacuated safely. CCTV footage is available. A detailed forensic assessment is underway."
+  },
+  "missingFields": [
+    {
+      "field": "effectiveDateStart",
+      "label": "Policy Effective Date",
+      "section": "Policy Information"
+    },
+    {
+      "field": "incidentTime",
+      "label": "Incident Time",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentLocation",
+      "label": "Incident Location",
+      "section": "Incident Information"
+    },
+    {
+      "field": "incidentDescription",
+      "label": "Incident Description",
+      "section": "Incident Information"
+    },
+    {
+      "field": "claimantName",
+      "label": "Claimant Name",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "claimantPhone",
+      "label": "Claimant Phone",
+      "section": "Involved Parties"
+    },
+    {
+      "field": "attachments",
+      "label": "Attachments",
+      "section": "Claim Details"
+    },
+    {
+      "field": "initialEstimate",
+      "label": "Initial Estimate",
+      "section": "Claim Details"
+    }
+  ],
+  "inconsistencies": [],
+  "fraudFlags": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "8 mandatory field(s) are missing from this FNOL submission: [Policy Effective Date (Policy Information), Incident Time (Incident Information), Incident Location (Incident Information), Incident Description (Incident Information), Claimant Name (Involved Parties), Claimant Phone (Involved Parties), Attachments (Claim Details), Initial Estimate (Claim Details)]. The claim cannot be auto-processed until all required information is provided.",
+  "rulesFired": [
+    "MISSING_MANDATORY_FIELDS"
+  ]
+}
