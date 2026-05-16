@@ -242,6 +242,6 @@ insurance-claims-agent/
 
 ---
 
-## 📄 License
 
-MIT
+
+
